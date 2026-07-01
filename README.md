@@ -45,5 +45,5 @@ comprehensive report about setting up an enterprise network
   network testing
   network evaluation
   notes and troubleshooting
-> recommendations and improvemtns
-> conclusion        
+  recommendations and improvemtns
+  conclusion        

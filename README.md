@@ -1,17 +1,17 @@
 # setting-up-an-enterprise-network
 comprehensive report about setting up an enterprise network
-  analysis
-    networking requirements
-    security departmental subnetwork and policies
-    hr, health, finance and legal departmental subnetwork
-    research, operations and intelligence departmental subnetwork
-    system administration, it support and security analysts departmental subnetwork
-  network design and specifications
-    bandwidth
-    subnetting
-    ethernet
-    networking devices
-    network topology
+  * analysis
+    * networking requirements
+    * security departmental subnetwork and policies
+    * hr, health, finance and legal departmental subnetwork
+    * research, operations and intelligence departmental subnetwork
+    * system administration, it support and security analysts departmental subnetwork
+  * network design and specifications
+    * bandwidth
+    * subnetting
+    * ethernet
+    * networking devices
+    * network topology
     network servers
       dhcp
       dns
